@@ -24,6 +24,6 @@ The purpose of this is to try and predict the top 3 teams for World Cup 2018 usi
 - this is done for making the dataset useable for our prediction
 
 ### **3. Classification Models to predict match results (Win/Draw/Lose)**
-- Variables used:
-    - Which stadium is it played at (0 -neutral, 1-away team's stadium, 2- home team's stadium)
-    - Whether the match is an important match or a friendly match (0 - Friendly, 1- Important)
+- classifier used:
+  - first I have used the basic logistic regression method to predict the winner.
+  - And I trying to use the XGBoosting,Random Forest, Decision Tree, K-Nearest Neighbour and SVM (Linear Kernel).
