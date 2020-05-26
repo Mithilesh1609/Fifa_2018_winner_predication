@@ -11,7 +11,6 @@ The purpose of this is to try and predict the top 3 teams for World Cup 2018 usi
 
 **3rd Place**: France
 
-
 ## **Contents:**
 
 ### **1. Import Necessary Packages/Datasets** 
@@ -22,7 +21,7 @@ The purpose of this is to try and predict the top 3 teams for World Cup 2018 usi
 - **Sklearn** (for **implemanting different classifiers**)
 
 ### **2. Data Cleaning**
-- This is done for making the **dataset useable for our prediction**
+- This is done for making the **[dataset] useable for our prediction**
 
 ### **3. Classification Models to predict match results (Win/Draw/Lose)**
 - classifier used:
@@ -34,5 +33,5 @@ The purpose of this is to try and predict the top 3 teams for World Cup 2018 usi
 ## Future Work
 - And I will try to use the **XGBoosting,Random Forest, Decision Tree, K-Nearest Neighbour and SVM (Linear Kernel).** classifier to predict the winner which can increase the accuracy.
 
-
-  
+## Acknoweldgement
+- I acknowelde ahmedelnaggar for providing the [dataset]() for the preication.
