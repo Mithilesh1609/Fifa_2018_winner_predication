@@ -21,11 +21,11 @@ The purpose of this is to try and predict the top 3 teams for World Cup 2018 usi
 - **Sklearn** (for **implemanting different classifiers**)
 
 ### **2. Data Cleaning**
-- This is done for making the **[dataset] useable for our prediction**
+- This is done for making the **[dataset](https://www.kaggle.com/ahmedelnaggar/fifa-worldcup-2018-dataset) useable for our prediction**
 
 ### **3. Classification Models to predict match results (Win/Draw/Lose)**
 - classifier used:
-  - First I have used the basic l**ogistic regression** method to predict the winner.
+  - First I have used the basic **logistic regression** method to predict the winner.
   
 ## Results
 - Currently I am getting the winner with the accuracy of **57% using the logistic regression**..
@@ -34,4 +34,4 @@ The purpose of this is to try and predict the top 3 teams for World Cup 2018 usi
 - And I will try to use the **XGBoosting,Random Forest, Decision Tree, K-Nearest Neighbour and SVM (Linear Kernel).** classifier to predict the winner which can increase the accuracy.
 
 ## Acknoweldgement
-- I acknowelde ahmedelnaggar for providing the [dataset]() for the preication.
+- I acknowelde ahmedelnaggar for providing the [dataset](https://www.kaggle.com/ahmedelnaggar/fifa-worldcup-2018-dataset) for the preication.
