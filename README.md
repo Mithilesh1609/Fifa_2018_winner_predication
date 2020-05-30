@@ -11,6 +11,8 @@ The purpose of this is to try and predict the top 3 teams for World Cup 2018 usi
 
 **3rd Place**: France
 
+### And they are **same** as the **results of the FIFA 2018**.
+
 ## **Contents:**
 
 ### **1. Import Necessary Packages/Datasets** 
