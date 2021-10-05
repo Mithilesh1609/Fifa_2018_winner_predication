@@ -1,4 +1,4 @@
-# fifa 2018 Winner Predication by Mithilesh thakkar
+# FIFA 2018 Winner Predication by Mithilesh thakkar
 This is a **python** implementation of the **fifa(football worldcup) 2018** each match's winner and final winner.
 
 The purpose of this is to try and predict the top 3 teams for World Cup 2018 using classification models coupled with poisson distribution to predict the exact results of the semi-finals, third place playoff and final. 
